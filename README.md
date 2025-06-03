@@ -10,8 +10,7 @@ We explore the use of probabilistic and neural sequence models for stylized lang
 
 ## Full Report
 
-For detailed methodology, analysis, and poem samples, read the full report here:  
-[Poem_Generation.pdf](Poem Generation.pdf)
+For detailed methodology, analysis, and poem samples, please refer to the [full report here](https://github.com/kvlahakis/AI-Poem-Generation/raw/main/Poem_Generation.pdf)
 
 ---
 
